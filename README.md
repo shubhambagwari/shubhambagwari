@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: subbu
 - ⚡ Fun fact: I love to interact and explore things
 - 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/shubhambagwari/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="padding-top: 7px;" alt="linkedin" width="65" height="25"/></a></span>
-mailID: subbu.bagwari@gmail.com
+- mail-ID: subbu.bagwari@gmail.com
 
 
 
