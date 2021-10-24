@@ -9,10 +9,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything
 - 😄 Pronouns: subbu
 - ⚡ Fun fact: I love to interact and explore things
-- 📫 How to reach me: <span> &emsp; <a href="https://www.linkedin.com/in/shubhambagwari/"> <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="padding-top: 7px;" alt="linkedin" width="65" height="25"/></a></span>
-- mail-ID: subbu.bagwari@gmail.com
 
+##  You can reach me:
 
+[![Linkedin Badge](https://img.shields.io/badge/-Shubham%20Bagwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhambagwari/)](https://www.linkedin.com/in/shubhambagwari/)  [![Gmail Badge](https://img.shields.io/badge/-subbu.bagwari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subbu.bagwari@gmail.com)](mailto:subbu.bagwari@gmail.com)    [![Instagram Badge](https://img.shields.io/badge/-@subbu.bagwari-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/subbu.bagwari/)](https://www.instagram.com/subbu.bagwari/)
 
 ![Shubham Bagwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhambagwari&show_icons=true&theme=radical)
 
