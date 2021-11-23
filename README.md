@@ -6,9 +6,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Machine Learning and Deep Learning.
 - 👯 I’m looking to collaborate on ML and DL projects.
 - 🤔 I’m looking for Universities,PhD 
-- 💬 Ask me about anything
+- 💬 Ask me about anything.
 - 😄 Pronouns: subbu
-- ⚡ Fun fact: I love to interact and explore things
+- ⚡ Fun fact: I love to interact and explore things.
 
 ##  You can reach me:
 
