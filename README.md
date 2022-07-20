@@ -1,4 +1,4 @@
-## नमस्ते, I am Shubham Bagwari a Project Assocaite at TIH-iHub Drishti Foundation Indian Institute of Technology Jodhpur <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
+## नमस्ते, I am Shubham Bagwari a Project Associate at TIH-iHub Drishti Foundation Indian Institute of Technology Jodhpur <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
 
 Here are some ideas to get you started:
 
