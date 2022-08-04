@@ -1,14 +1,12 @@
-## नमस्ते, I am Shubham Bagwari <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
+## नमस्ते 🙏, I am Shubham Bagwari <img  src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif"  width="30">
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently exploring ML, DL, and Image Processing.
-- 🌱 I’m currently learning Machine Learning and Deep Learning.
-- 👯 I’m looking to collaborate on ML and DL projects.
-- 🤔 I’m looking for Universities,PhD 
-- 💬 Ask me about anything
-- 😄 Pronouns: subbu
-- ⚡ Fun fact: I love to interact and explore things
+- 🧠 I’m currently exploring and working in ML, DL, and Image Processing.
+- 🤝 Simultaneously open to collaborating on ML, DL and IP-based projects.
+- 🔍 I’m looking for Universities, PhD.
+- 😄 Pronouns: Subbu
+- ⚡ Problems become solvable while introspecting, exploring and doing discussions.
 
 ##  You can reach me:
 
@@ -18,6 +16,8 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhambagwari&langs_count=8&layout=compact)](https://github.com/shubhambagwari/github-readme-stats)
 
+### Support Me
+<a href="https://www.buymeacoffee.com/shubhambagwari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 **Visitors Count**<br>
 ![VisitorCount](https://profile-counter.glitch.me/{shubhambagwari}/count.svg)
