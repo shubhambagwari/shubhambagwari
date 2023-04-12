@@ -2,9 +2,9 @@
 
 
 
-- 🧠 I’m currently exploring and working in ML, DL, and Image Processing.
+- 🧠 I’m currently exploring and working in DL.
+- 🔍 Doing PhD @IIT Jodhpur, India.
 - 🤝 Simultaneously open to collaborating on ML, DL and IP-based projects.
-- 🔍 I’m looking for Universities, PhD.
 - 😄 Pronouns: Subbu
 - ⚡ Problems become solvable while introspecting, exploring and doing discussions.
 
