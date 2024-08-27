@@ -2,8 +2,8 @@
 
 
 
-- 🧠 I’m currently exploring and working in DL.
-- 🔍 Doing PhD @IIT Jodhpur, India.
+- 🧠 I'm actively engaged in research and development within the field of Deep Learning
+- 🔍 Research Scholar @IIT Jodhpur, India.
 - 🤝 Simultaneously open to collaborating on ML, DL and IP-based projects.
 - 😄 Pronouns: Subbu
 - ⚡ Problems become solvable while introspecting, exploring and doing discussions.
