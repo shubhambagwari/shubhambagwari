@@ -12,7 +12,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Shubham%20Bagwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhambagwari/)](https://www.linkedin.com/in/shubhambagwari/)  [![Gmail Badge](https://img.shields.io/badge/-subbu.bagwari@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:subbu.bagwari@gmail.com)](mailto:subbu.bagwari@gmail.com)    [![Instagram Badge](https://img.shields.io/badge/-@subbu.bagwari-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/subbu.bagwari/)](https://www.instagram.com/subbu.bagwari/)
 
-![Shubham Bagwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhambagwari&show_icons=true&theme=radical)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhambagwari&langs_count=8&layout=compact)](https://github.com/shubhambagwari/github-readme-stats)
 
