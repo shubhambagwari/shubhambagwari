@@ -19,5 +19,6 @@
 ### Support Me
 <a href="https://www.buymeacoffee.com/shubhambagwari"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
-**Visitors Count**<br>
-![VisitorCount](https://profile-counter.glitch.me/{shubhambagwari}/count.svg)
+**Visitors Count**<be>
+<!-- ![VisitorCount](https://profile-counter.glitch.me/{shubhambagwari}/count.svg) -->
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=shubhambagwari alt=shubhambagwari/> </p>
